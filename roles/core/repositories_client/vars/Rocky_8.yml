@@ -1,0 +1,4 @@
+distro-main-repolist:
+  - Rocky-Extras.repo
+  - Rocky-AppStream.repo
+  - Rocky-BaseOS.repo
